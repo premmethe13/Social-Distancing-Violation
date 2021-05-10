@@ -8,7 +8,7 @@ def email_send():
     port=535
     password='Sender Password'
     message="""
-    Subject:Voialation of Social Distancing
+    Subject:Vioalation of Social Distancing
     Respected Sir,
           This is a mail to inform you that the social distancing is being hampered in lift.
     """
